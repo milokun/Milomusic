@@ -1,5 +1,5 @@
 <h1><p align="center"><a>𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
-<p align="center"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://github.com/milokun/Milomusic"><img src="https://telegra.ph/file/7ba898de46eda9956bbb5.jpg"width="300"heigh="100" /></a></p>
 
 
 
@@ -43,7 +43,7 @@
 - /channelplay [Nama pengguna atau id obrolan] atau [Nonaktifkan] - Hubungkan saluran ke grup dan streaming musik di obrolan suara saluran dari grup Anda.
 ## DEPLOY VPS
 Nih kak cara deploy di vps
-- `git clone https://github.com/kenkansaja/Musikku`
+- `git clone https://github.com/milokun/Milomusic`
 - `cd Musikku`
 - `bash setup`
 - `bash start`
@@ -56,11 +56,11 @@ Nih kak cara deploy di vps
 ## CONTRIBUTOR
 Terimakasih
 - [@NotReallyShikhar](https://github.com/NotReallyShikhar) - Dev
-- [@kenkansaja](https://github.com/kenkansaja) - Kanger
+- [@milokunn](https://github.com/milokun) - sadboi
 
 ### Mari terhubung!
 <p>
-    <a href="https://t.me/kenkanasw" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram"width="254" height="52"/></a>
-    <a href="https://t.me/musikkugroup" target="blank"><img src="https://img.shields.io/badge/MUSIK KU GROUP-black?style=flat&logo=telegram"width="319" height="52"/></a>
-    <a href="https://t.me/musikkuchannel" target="blank"><img src="https://img.shields.io/badge/MUSIK KU CHANNEL-gold?style=flat&logo=telegram"width="332" height="49"/></a>
+    <a href="https://t.me/my_nottess" target="blank"><img src="https://img.shields.io/badge/@my_nottess-30302f?style=flat&logo=telegram"width="254" height="52"/></a>
+    <a href="https://t.me/kazusupport" target="blank"><img src="https://img.shields.io/badge/MUSIK KU GROUP-black?style=flat&logo=telegram"width="319" height="52"/></a>
+    <a href="https://t.me/milomusikgrup" target="blank"><img src="https://img.shields.io/badge/MUSIK KU CHANNEL-gold?style=flat&logo=telegram"width="332" height="49"/></a>
 </p>
